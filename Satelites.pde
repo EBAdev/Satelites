@@ -1,4 +1,6 @@
-
+//Her er mit bud på en kode der ligner den gør hvad den skal, er ikke helt sikker på at animationen er korrekt
+//Derudover tager det lige lidt tid at starte programmet da APIen ikke tillader et kald til flere satelitter
+//Derfor skal et for loop kalde hver enkel satellit.
 ArrayList <PVector> Posistions = new ArrayList();
 ArrayList <PVector> DistanceMoved = new ArrayList();
 FloatList rotation = new FloatList();
